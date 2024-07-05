@@ -23,7 +23,7 @@ Eternal Hope, oyuncuların tek başlarına oynayabileceği koşu sırasında far
 - Single Player
 
 # Hedef Kitle
-- Casual Oyuncular
+- Hyper Casual Oyuncular
 - Mobil ve PC oyuncuları
 - Retro Oyun Severler
 - +7 yaş üzeri oyuncular
