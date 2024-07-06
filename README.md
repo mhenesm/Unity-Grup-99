@@ -31,10 +31,10 @@ Eternal Hope, oyuncuların tek başlarına oynayabileceği koşu sırasında far
 # SPRINT 1
 - Daily Scrum: Whatsapp ve discord üzerinden görüşmeleren sağlanmıştır. Görüşmelerin sonucunda kodlama ve tasarım ekibi belirlenmiştir.Roller ile ilgili tam kararlar verilmiş, product owner belirlenmiştir.
 
-## Sprint Review:
+**Sprint Review:**
 - Oyunun konusu ve türü belirlenmiştir.
 - Oyunun daha iyi bir şekilde anlaşılması için referans alınacak oyunlar belirlenmiştir.
 - Oyunun pixel art tarafında devam etmesine karar verilmiştir.
 
-## Sprint Retrospective:
+**Sprint Retrospective:**
 - Kodlama ve tasarım tarafında daha fazla geçikme olmadan çalışmaya başlanması kararı alınmıştır.
