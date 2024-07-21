@@ -39,7 +39,7 @@ Eternal Hope, oyuncuların tek başlarına oynayabileceği koşu sırasında far
 **Sprint Retrospective:**
 - Kodlama ve tasarım tarafında daha fazla geçikme olmadan çalışmaya başlanması kararı alınmıştır.
 
-- # SPRINT 2
+# SPRINT 2
 - Daily Scrum: Whatsapp ve discord üzerinden görüşmeleren sağlanmıştır. Görüşmelerin sonucunda bütün takım arkadaşlarımızın yoğun çalışma ve staj takvimi olduğundan dolayı çalışmalara gelecek hafta başlanmasına yönelik karar aldık.
 
 **Sprint Review:**
