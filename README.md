@@ -49,3 +49,15 @@ Eternal Hope, oyuncuların tek başlarına oynayabileceği koşu sırasında far
 
 **Sprint Retrospective:**
 - Tasarım ve kodlama tarafında çalışmaya başlayamadığımız için yeniden bir plan yapıldı.Sprint-1 de verilen hedeflere ulaşılamadı.
+
+![WhatsApp Görsel 2024-07-22 saat 00 05 21_ff017c92](https://github.com/user-attachments/assets/048cffae-f169-4cfc-b0ed-0c6bec9da63b)
+![WhatsApp Görsel 2024-07-22 saat 00 05 21_5f2a467a](https://github.com/user-attachments/assets/58794804-7920-4c30-b85a-f4309689e9c6)
+![WhatsApp Görsel 2024-07-22 saat 00 05 21_c50139a6](https://github.com/user-attachments/assets/edc6fca3-64a8-4405-ae36-649755411e5d)
+![WhatsApp Görsel 2024-07-22 saat 00 05 21_c965c947](https://github.com/user-attachments/assets/11a8efd5-f6f9-4483-9637-286a629eaff8)
+
+
+
+
+
+
+
