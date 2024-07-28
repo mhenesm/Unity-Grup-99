@@ -63,10 +63,10 @@ Eternal Hope, oyuncuların tek başlarına oynayabileceği koşu sırasında far
 - Karakter tasarımı gerçekleştirildi.
 - Çevre tasarımına başlanıldı.
 
-- ![WhatsApp Görsel 2024-07-27 saat 17 36 31_21608715](https://github.com/user-attachments/assets/0b244b72-38e7-47cd-99e4-4ad9d49f4da5)
--
-- 
-- ![WhatsApp Görsel 2024-07-27 saat 17 36 31_b8a277dd](https://github.com/user-attachments/assets/0be18127-0d5d-40cf-8b38-55dc4a664172)
+![WhatsApp Görsel 2024-07-27 saat 17 36 31_21608715](https://github.com/user-attachments/assets/0b244b72-38e7-47cd-99e4-4ad9d49f4da5)
+
+
+![WhatsApp Görsel 2024-07-27 saat 17 36 31_b8a277dd](https://github.com/user-attachments/assets/0be18127-0d5d-40cf-8b38-55dc4a664172)
 
 
 
