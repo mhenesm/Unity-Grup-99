@@ -55,7 +55,21 @@ Eternal Hope, oyuncuların tek başlarına oynayabileceği koşu sırasında far
 ![WhatsApp Görsel 2024-07-22 saat 00 05 21_c50139a6](https://github.com/user-attachments/assets/edc6fca3-64a8-4405-ae36-649755411e5d)
 ![WhatsApp Görsel 2024-07-22 saat 00 05 21_c965c947](https://github.com/user-attachments/assets/11a8efd5-f6f9-4483-9637-286a629eaff8)
 
+# SPRINT 3
+-Daily Scrum: Whatsapp ve discord üzerinden görüşmeleren sağlanmıştır. Görüşmelerin sonucunda bütün takım arkadaşlarımızın yoğun çalışma ve staj takvimi olduğundan dolayı çalışmalarımız yavaş ilerlemektedir. Görsel tasarımlarımızda örnek görseller çıkarılmış ve çevre tasarımı için çalışmalara başlamış bulunmaktayız.
+**Sprint Review:**
+- Tasarım çalışmalarına başlandı.
+- Kodlama çalışmaları için önümüzdeki salı günü başlanmasına ve önümüzdeki hafta bitirilmesine karar verildi.
+- Karakter tasarımı gerçekleştirildi.
+- Çevre tasarımına başlanıldı.
+- ![duran](https://github.com/user-attachments/assets/a5726723-ffd4-4634-80d3-bdaebbb68705)
+- ![WhatsApp Görsel 2024-07-27 saat 17 36 31_21608715](https://github.com/user-attachments/assets/0b244b72-38e7-47cd-99e4-4ad9d49f4da5)
+- ![WhatsApp Görsel 2024-07-27 saat 17 36 31_b8a277dd](https://github.com/user-attachments/assets/0be18127-0d5d-40cf-8b38-55dc4a664172)
+- ![hareketli 2](https://github.com/user-attachments/assets/3b072e09-25e3-4371-9c19-cfbd93293bdb)
 
+
+**Sprint Retrospective:**
+-Tasarım tarafında ilerleme kaydedildi ve çevre tasarımı ile karakter tasarımları hazırlandı. Kodlama kısmında geride kaldık.
 
 
 
